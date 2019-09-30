@@ -1,4 +1,4 @@
-,Ningbo,Hangzhou,Suzhou,Changzhou,Shanghaiasdasdasdasdasdasd,Taizhou,Wenzhou,Jinhua,Fuzhou,Nanjing
+,Ningbo,Hangzhou,Suzhou,Changzhou,Shanghai,Taizhou,Wenzhou,Jinhua,Fuzhou,Nanjing
 Ningbo,,155,,,,380,,,,
 Hangzhou,155,,,210,180,,,180,,280
 Suzhou,,,,95,90,,,,,
